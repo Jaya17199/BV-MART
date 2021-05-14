@@ -9,8 +9,8 @@ E-commerce website where user can buy and sell products
 
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/73779347/118258177-2eb76b80-b4cd-11eb-83c1-18ad871ec51a.png)
-
-
+![0](https://user-images.githubusercontent.com/73779347/118264064-c40a2e00-b4d4-11eb-9199-cfbcdb8bbcbb.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/73779347/118264269-12b7c800-b4d5-11eb-9f9e-7bec5ba38fac.png)
 ![feed](https://user-images.githubusercontent.com/73779347/118261813-b4d5b100-b4d1-11eb-9320-eb703baac635.png)
 
 
