@@ -2,6 +2,8 @@
 E-commerce website where user can buy and sell products
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/73779347/118256474-2100e680-b4cb-11eb-858a-980b48c7bcde.png)
+
+
 ![Screenshot (8)](https://user-images.githubusercontent.com/73779347/118257782-a5a03480-b4cc-11eb-904a-6c911b515c18.png)
 
 
@@ -27,4 +29,4 @@ Admin Module
 ![5](https://user-images.githubusercontent.com/73779347/118263236-a2f50d80-b4d3-11eb-972f-aa36db863369.png)
 ![Add_cat](https://user-images.githubusercontent.com/73779347/118261871-c3bc6380-b4d1-11eb-8924-5bd068db15b7.png)
 ![list](https://user-images.githubusercontent.com/73779347/118261897-ca4adb00-b4d1-11eb-910b-08b305d2f382.png)
-![a_feed](https://user-images.githubusercontent.com/73779347/118261919-cfa82580-b4d1-11eb-975b-78085d8e597c.png)
+
