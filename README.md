@@ -9,14 +9,14 @@ E-commerce website where user can buy and sell products
 
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/73779347/118258177-2eb76b80-b4cd-11eb-83c1-18ad871ec51a.png)
-![1](https://user-images.githubusercontent.com/73779347/118261280-f580fa80-b4d0-11eb-983b-b3c93a77e644.png)
+
 ![3](https://user-images.githubusercontent.com/73779347/118259786-2eb86b00-b4cf-11eb-9323-99460a30b59b.png)
 ![feed](https://user-images.githubusercontent.com/73779347/118261813-b4d5b100-b4d1-11eb-9320-eb703baac635.png)
 
 
    Buyer Module
 
-![1](https://user-images.githubusercontent.com/73779347/118259493-d84b2c80-b4ce-11eb-9ca0-1b48df3635a0.png)
+
 
 Admin Module
 
