@@ -8,7 +8,7 @@ E-commerce website where user can buy and sell products
 
 
 
-  Seller Module
+  # Seller Module
 
 
 
@@ -25,7 +25,7 @@ E-commerce website where user can buy and sell products
 
 
 
-   Buyer Module
+  # Buyer Module
    
    
   
@@ -40,7 +40,7 @@ E-commerce website where user can buy and sell products
 
 
 
-Admin Module
+# Admin Module
 
 
 
